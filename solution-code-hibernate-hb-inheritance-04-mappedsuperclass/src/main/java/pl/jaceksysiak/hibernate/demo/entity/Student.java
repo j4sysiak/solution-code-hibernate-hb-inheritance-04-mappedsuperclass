@@ -1,6 +1,5 @@
 package pl.jaceksysiak.hibernate.demo.entity;
 
-import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
 @Entity
